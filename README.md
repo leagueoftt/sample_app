@@ -1,5 +1,5 @@
 # README
-
+rails tutorialのsample_app#3
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
